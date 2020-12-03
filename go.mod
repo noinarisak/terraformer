@@ -105,8 +105,8 @@ require (
 	github.com/gophercloud/gophercloud v0.13.0
 	github.com/grafana/grafana-api-golang-client v0.0.0-20210218192924-9ccd2365d2a6
 	github.com/hashicorp/go-azure-helpers v0.10.0
-	github.com/hashicorp/go-cleanhttp v0.5.1
-	github.com/hashicorp/go-hclog v0.15.0
+	github.com/hashicorp/go-cleanhttp v0.5.2
+	github.com/hashicorp/go-hclog v0.16.0
 	github.com/hashicorp/go-plugin v1.4.0
 	github.com/hashicorp/hcl v1.0.0
 	github.com/hashicorp/terraform v0.12.29
@@ -120,6 +120,9 @@ require (
 	github.com/mrparkers/terraform-provider-keycloak v0.0.0-20200506151941-509881368409
 	github.com/nicksnyder/go-i18n v1.10.1 // indirect
 	github.com/ns1/ns1-go v2.4.0+incompatible
+	github.com/okta/okta-sdk-golang v1.1.0
+	github.com/okta/okta-sdk-golang/v2 v2.3.1-0.20210317124025-8a2c70f65200
+	github.com/okta/terraform-provider-okta v0.0.0-20210420153836-5229dd7a3fc0
 	github.com/packethost/packngo v0.9.0
 	github.com/paultyng/go-newrelic/v4 v4.10.0
 	github.com/pkg/errors v0.9.1
