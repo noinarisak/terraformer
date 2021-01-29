@@ -20,7 +20,7 @@ require (
 	github.com/OctopusDeploy/go-octopusdeploy v1.6.0
 	github.com/aliyun/alibaba-cloud-sdk-go v1.60.295
 	github.com/aliyun/aliyun-tablestore-go-sdk v4.1.2+incompatible
-	github.com/aws/aws-sdk-go v1.36.19
+	github.com/aws/aws-sdk-go v1.37.1
 	github.com/aws/aws-sdk-go-v2 v0.24.0
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
 	github.com/cloudflare/cloudflare-go v0.13.6
@@ -60,8 +60,8 @@ require (
 	google.golang.org/api v0.36.0
 	google.golang.org/genproto v0.0.0-20201210142538-e3217bee35cc
 	gopkg.in/jarcoal/httpmock.v1 v1.0.0-00010101000000-000000000000 // indirect
-	k8s.io/apimachinery v0.20.1
-	k8s.io/client-go v0.20.1
+	k8s.io/apimachinery v0.20.2
+	k8s.io/client-go v0.20.2
 )
 
 replace gopkg.in/jarcoal/httpmock.v1 => github.com/jarcoal/httpmock v1.0.5
